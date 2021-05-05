@@ -1,10 +1,16 @@
 <h1 align="center">Hello World, here Ztroid👋</h1>
-
-#### Actually... My name is Lukas Budi. I'm a programmer or something, currently student at Informatics, ISTTS 💻<br> Born and raised in Surabaya. Lived his childhood life with Photoshop, Notepad++, and some Premiere Pro.
+<p>
+✔️ Actually.. My name is Lukas Budi. <br>
+✔️ Currently an informatics student at ISTTS. <br>
+✔️ Born and raised in Surabaya. Lived his childhood life with Photoshop, Notepad++, and some Premiere Pro.
+  </p>
 
 <h1 align="center">Github Stats 🚩</h1>
 <p align="center">
+<h2 align="center">Github stats 🥵</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ztrohub&theme=react" /><br><br>
+
+<h2 align="center">Top language 🥶</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrohub&layout=compact&theme=react" />
 </p>
 
