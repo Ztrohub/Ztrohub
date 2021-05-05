@@ -5,14 +5,16 @@
 ✔️ Born and raised in Surabaya. Lived his childhood life with Photoshop, Notepad++, and some Premiere Pro.
   </p>
 
-<h1 align="center">Github Stats 🚩</h1>
-<p align="center">
 <h2 align="center">Github stats 🥵</h2>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ztrohub&theme=react" /><br><br>
+</p>
 
 <h2 align="center">Top language 🥶</h2>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrohub&layout=compact&theme=react" />
-</p>
+  </p>
+
 
 
 
