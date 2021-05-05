@@ -17,3 +17,7 @@
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Ztrohub/count.svg)
+
+<!--
+Ayo dont copy my profile you dirty stealer
+-->
