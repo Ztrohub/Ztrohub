@@ -15,9 +15,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrohub&layout=compact&theme=react" />
   </p>
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Ztrohub/count.svg)
-
 <!--
 Ayo dont copy my profile you dirty stealer
 -->
+
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Ztrohub/count.svg)
