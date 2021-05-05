@@ -15,8 +15,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ztrohub&layout=compact&theme=react" />
   </p>
 
+<!-- AYO DONT COPY MY PROFILE U DIRTY STEALER -->
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Ztrohub/count.svg)
-
-[![AYO DON'T COPY MY PROFILE U DIRTY STEALER !!!]
