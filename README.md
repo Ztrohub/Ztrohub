@@ -2,7 +2,7 @@
 <p>
 ✔️ Actually.. My name is Lukas Budi. But you can call me yours 🥴 <br>
 ✔️ Currently an informatics student at ISTTS. <br>
-✔️ Born and raised in Surabaya. Lived his childhood life with Photoshop, Notepad++, and some Premiere Pro.
+✔️ Born and raised in Surabaya. Lived my childhood life with Photoshop, Notepad++, and some Premiere Pro.
   </p>
 
 <h2 align="center">Github stats 🥵</h2>
