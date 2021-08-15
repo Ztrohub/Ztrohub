@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/48f728bc36.js" crossorigin="anonymous"></script>
-
 <h1 align="center">Hello World, here Ztroid👋</h1>
 <p>
 ✔️ Actually.. My name is Lukas Budi. But you can call me yours 🥴 <br>
@@ -19,11 +17,13 @@
 
 <!-- AYO DONT COPY MY PROFILE U DIRTY STEALER -->
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Ztrohub/count.svg)
+&nbsp;
+
+- Github: [Ztrohub](https://github.com/Ztrohub)
+- Instagram: [@lukasbudi](https://www.instagram.com/lukasbudi_/)
+- Website: https://ztrohub.github.io/
 
 &nbsp;
 
-<i class="fa fa-github fa-1x"></i> Github: [Ztrohub](https://github.com/Ztrohub)
-<i class="fa fa-instagram fa-1x"></i> Instagram: [@lukasbudi](https://www.instagram.com/lukasbudi_/)
-<i class="fa fa-globe fa-1x"></i> Website: https://ztrohub.github.io/
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Ztrohub/count.svg)
